@@ -15,7 +15,7 @@
     "markdown-it-attrs": "^3.0.2",
     "markdown-it-emoji": "^1.4.0",
     "moment": "^2.26.0",
-    "node-forge": "^0.9.1",
+    "node-forge": "^1.0.0",
     "parameterize": "^1.0.0",
     "raw-loader": "^4.0.1",
     "secure-random-string": "^1.1.3",
